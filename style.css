@@ -324,7 +324,7 @@ a {
 	backdrop-filter: blur(5px);
 }
 
-.show ~ #header__overlay {
+.show-navbar ~ #header__overlay {
 	display: block;
 }
 
