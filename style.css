@@ -384,6 +384,7 @@ a {
 	height: auto;
 	aspect-ratio: 16/9;
 	
+	border: none;
 	border-radius: clamp(1.2rem, 0.179vw + 1.143rem, 1.4rem);
 }
 
@@ -886,3 +887,4 @@ a {
 .faq__accordion:open{
 	transform: scale(1.025) translateY(-2.5px);
 }
+
